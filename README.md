@@ -1,0 +1,1 @@
+The Contact Manager Application is a web-based project developed using React JS. It helps users easily store, manage, view, update, and delete contact information. Users can add contact details such as name, phone number, email address, and other personal information.
